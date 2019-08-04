@@ -1,0 +1,15 @@
+.box{
+    min-height: 50px;
+    background-color: dodgerblue;
+}
+section{
+    margin-bottom: 20px;
+}
+.responsive{
+    background-color: #000;
+    margin-bottom: 40px;
+    padding: 20px;
+}
+.responsive h2{
+    color: #fff;
+}
